@@ -23,4 +23,5 @@ test('workflow configuration exists for Pages deployment', () => {
   assert.match(workflow, /cron:\s*'0 3 \* \* \*'/);
   assert.match(workflow, /uses:\s+actions\/deploy-pages@v4/);
   assert.match(workflow, /continue-on-error:\s*true/);
+  assert.match(workflow, /FORCE_JAVASCRIPT_ACTIONS_TO_NODE24:\s*true/);
 });
