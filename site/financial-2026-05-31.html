@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Financial Brain · 2026-05-31</title>
+<style>
+  :root { --bg: #f6f1e8; --surface: #fffaf2; --line: #d8c5ab; --text: #2b2118; --muted: #766453; --accent: #8c4f2b; --accent-soft: #ead2bf; }
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: radial-gradient(circle at top, #fff6ea 0, var(--bg) 55%, #ead8c6 100%); color: var(--text); font-family: "Noto Sans TC", "PingFang TC", "Helvetica Neue", Arial, sans-serif; min-height: 100vh; }
+  .container { position: relative; z-index: 1; max-width: 760px; margin: 0 auto; padding: 72px 24px; }
+  .logo { font-size: 48px; text-align: center; margin-bottom: 16px; }
+  h1 { text-align: center; font-size: 24px; color: var(--text); margin-bottom: 8px; }
+  .subtitle { text-align: center; color: var(--accent); font-size: 14px; margin-bottom: 40px; }
+  .count { text-align: center; color: var(--muted); font-size: 13px; margin-bottom: 32px; }
+  .lead { margin: 0 auto 24px; max-width: 680px; color: var(--muted); line-height: 1.8; text-align: center; }
+  ul { list-style: none; }
+  li { margin-bottom: 10px; }
+  a { color: var(--text); text-decoration: none; }
+  .issue-link { display: block; padding: 14px 20px; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; transition: all 0.2s; font-size: 15px; }
+  .issue-link:hover { background: var(--accent-soft); border-color: var(--accent); transform: translateX(4px); }
+  .paper { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 24px; margin-bottom: 18px; box-shadow: 0 8px 30px rgba(140, 79, 43, 0.08); }
+  .paper h2 { font-size: 20px; margin-bottom: 12px; }
+  .meta, .tagline, .empty { color: var(--muted); font-size: 14px; line-height: 1.7; }
+  .section-label { display: inline-block; margin-top: 16px; margin-bottom: 8px; padding: 4px 10px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); font-size: 12px; letter-spacing: 0.04em; }
+  .paper p { line-height: 1.8; }
+  .back-link { display: inline-block; margin-bottom: 24px; color: var(--accent); }
+  footer { margin-top: 56px; text-align: center; font-size: 12px; color: var(--muted); }
+  footer a { color: var(--muted); }
+  footer a:hover { color: var(--accent); }
+</style>
+</head>
+<body>
+<div class="container">
+  <a class="back-link" href="index.html">← 返回首頁</a>
+  <div class="logo">📈</div>
+  <h1>Financial Brain</h1>
+  <p class="subtitle">2026年5月31日（週日）</p>
+  <p class="lead">今日收錄 10 篇過去 7 天日報尚未出現的新研究，聚焦金融壓力、健康經濟、決策科學與不平等議題。</p>
+  <article class="paper">
+    <h2>Editorial for the Special Issue on Harmonization Techniques for MRI.</h2>
+    <p class="meta">NeuroImage · 2026-05-22</p>
+    <p class="tagline">分類：神經影像學方法論</p>
+    <span class="section-label">中文摘要</span>
+    <p>本社論介紹了關於神經影像協調技術的專刊，闡述其在多站點MRI分析中的重要性。為了在聚合不同掃描儀、協議與機構數據時消除非生物變異性並保留生物學信號，協調技術已成為關鍵。文章回顧了基於ComBat家族的統計方法、體素級別的深度學習方法、針對未知站點的域泛化策略，以及適用於連接組數據的網絡感知協調技術。同時也指出了該領域面臨的跨領域挑戰，包含模態特定性能、生物資訊保留、驗證方法以及對可擴展且保護隱私框架的需求。</p>
+    <span class="section-label">研究亮點</span>
+    <p>隨著大規模神經影像研究日益依賴多中心數據，穩健的協調技術是確保研究結果可重現性與可推廣性的核心基礎。本專刊不僅系統性地梳理了當前主流與新興的協調方法，更點出了未來技術發展與標準化驗證的關鍵瓶頸，對推動跨機構神經科學研究的精準性與數據共用實踐具有深遠的指導意義。</p>
+    <span class="section-label">原始連結</span>
+    <p><a href="https://pubmed.ncbi.nlm.nih.gov/42128316/">PubMed</a></p>
+  </article>
+<article class="paper">
+    <h2>When more control means better choices: Cognitive control networks drive expected-value maximization under uncertainty.</h2>
+    <p class="meta">NeuroImage · 2026-05-22</p>
+    <p class="tagline">分類：認知神經科學</p>
+    <span class="section-label">中文摘要</span>
+    <p>本研究探討了個體在結果不確定性下如何克服次優的「概率匹配」啟發式，以實現期望值最大化。研究發現，高認知控制容量（CCC）的個體在各種不確定性水平下，都能表現出更高比例的最大化決策。透過階層漂移擴散模型與功能性磁振造影分析，研究指出這種最優表現源於更謹慎的決策閾值；而在神經層面上，雖然胼胝體-蓋網路（CON）與額頂葉網路（FPN）皆會因不確定性增加而活化，但僅有CON內部（前腦島至中額回）的功能連結能作為「神經放大器」，將高認知控制能力轉化為實際的最優決策表現。</p>
+    <span class="section-label">研究亮點</span>
+    <p>此研究首次從神經計算框架揭示了認知控制網路克服直覺啟發式的特定機制，證明了單純具備高認知能力並不足以保證最優決策，必須依賴胼胝體-蓋網路（CON）內部的特定連結路徑來動員資源。這不僅釐清了CON與FPN在決策中的不同角色，也為理解個體在面對不確定性時的決策差異提供了精確的神經生物學基礎，對神經經濟學及臨床決策障礙研究具有重要意義。</p>
+    <span class="section-label">原始連結</span>
+    <p><a href="https://pubmed.ncbi.nlm.nih.gov/42114662/">PubMed</a></p>
+  </article>
+<article class="paper">
+    <h2>Disrupted cortical folding and cognitive outcomes in extremely preterm children at mid-childhood.</h2>
+    <p class="meta">NeuroImage · 2026-05-22</p>
+    <p class="tagline">分類：發展神經科學</p>
+    <span class="section-label">中文摘要</span>
+    <p>本研究探討極早產兒童在童年中期（10歲）的大腦皮層形態特徵，並與足月兒進行比較。研究發現，極早產兒童呈現廣泛的皮層變薄、表面積改變及特定區域的腦溝深度與腦迴化異常。透過主成分分析，研究確認了10歲時的四個皮層形態主成分與其12歲時的認知表現顯著相關，且伴隨認知問題的極早產兒在結構協方差與樞紐組織上展現出獨特的網絡差異。</p>
+    <span class="section-label">研究亮點</span>
+    <p>此研究揭示了極早產對大腦皮層發育的長期影響，證實了皮層重組現象會持續至童年中期。透過證明多變量皮層形態模式能作為預測後期認知風險的有效生物標記，該研究為臨床上早期識別極早產兒童的認知發展遲緩提供了客觀的神經影像學依據，有助於未來制定精準的早期干預策略。</p>
+    <span class="section-label">原始連結</span>
+    <p><a href="https://pubmed.ncbi.nlm.nih.gov/42114661/">PubMed</a></p>
+  </article>
+<article class="paper">
+    <h2>Automated detection of cerebral microbleeds on ex-vivo MRI scans of community-based older adults.</h2>
+    <p class="meta">NeuroImage · 2026-05-22</p>
+    <p class="tagline">分類：醫療AI技術</p>
+    <span class="section-label">中文摘要</span>
+    <p>本研究針對社區老年人離體腦部MRI掃描，提出首個全面的自動化腦微出血（CMB）檢測演算法。由於離體MRI中CMB盛行率低且存在大量偽影（如氣泡），加上訓練資料有限，自動偵測極具挑戰性。該方法結合了新穎的多回波合成演算法、基於模糊分割的自監督預訓練以及置信度感知學習，以解決資料稀缺與類別不平衡問題。在287名社區老年人的資料集中，該模型在每張掃描15個假陽性的情況下，成功捕捉了90%的確定CMB與83%的整體CMB，平均精確度較基線提升46%。</p>
+    <span class="section-label">研究亮點</span>
+    <p>此一技術突破大幅降低了人工標註的時間與勞力成本，將手動審查負擔減少了5至20倍，打破了過去大規模MRI與病理學對照研究的關鍵瓶頸。這不僅為離體CMB檢測建立了新的基準，更使得大規模驗證CMB與中風風險、認知衰退及腦血管病變之間關聯的研究變得切實可行，對推進神經退化性疾病與腦血管病理學的發展具有重要貢獻。</p>
+    <span class="section-label">原始連結</span>
+    <p><a href="https://pubmed.ncbi.nlm.nih.gov/42107619/">PubMed</a></p>
+  </article>
+<article class="paper">
+    <h2>State-level brain dynamics reveal neural correlates of negative-mode rigidity in non-suicidal self-injury.</h2>
+    <p class="meta">NeuroImage · 2026-05-22</p>
+    <p class="tagline">分類：神經精神影像學</p>
+    <span class="section-label">中文摘要</span>
+    <p>本研究利用靜息態fMRI與隱馬可夫模型，分析160名非自殺性自傷（NSSI）患者與50名精神科對照組的腦部動態變化。結果顯示，NSSI患者過度沉溺於與腹側注意力相關的重複性腦部狀態，且腦部狀態間的區分度降低、狀態內變異性增加。這種特定狀態的主導性不僅與基線時的情緒調節困難嚴重程度相關，還能作為預測未來三個月內NSSI行為改善情況的指標。</p>
+    <span class="section-label">研究亮點</span>
+    <p>該研究從大尺度腦動態變化的角度，揭示了NSSI患者難以擺脫負面內在體驗的「負向模式僵化」神經機制，強調了注意力缺陷是其臨床核心特徵。此發現證實了NSSI患者在多個神經組織層面上存在靈活性的收斂性破壞，為未來針對大尺度腦部動態的機制性探索與轉譯治療提供了重要的潛在靶點。</p>
+    <span class="section-label">原始連結</span>
+    <p><a href="https://pubmed.ncbi.nlm.nih.gov/42107618/">PubMed</a></p>
+  </article>
+<article class="paper">
+    <h2>Emotional Fortification: Pediatricians as a Core Resource for Managing Parental Stress and Anxiety.</h2>
+    <p class="meta">Journal of health and social behavior · 2026-05-30</p>
+    <p class="tagline">分類：醫學社會學</p>
+    <span class="section-label">中文摘要</span>
+    <p>本研究透過對11名兒科醫生與32名父母的43次訪談，探討兒科醫生在協助父母處理育兒焦慮時所扮演的核心角色。研究提出「情感強化」的概念，指出兒科醫生將提供情感支持視為工作重心，致力於平復父母情緒並提升其育兒信心，從而讓父母累積減少壓力與提升效能感的情感資源。同時，研究也關注到不同背景的父母在獲取此資源時所面臨的不平等現象。</p>
+    <span class="section-label">研究亮點</span>
+    <p>此研究填補了情緒勞動理論中「情感強化」這一未被充分探討的結果缺口，突顯了兒科醫療場域在心理健康支持方面的延伸功能。其不僅重新定義了兒科醫生的專業角色，更揭示了醫療互動中潛在的社會不平等問題，對優化兒科醫療照護模式與促進家庭心理健康政策具有重要的參考價值。</p>
+    <span class="section-label">原始連結</span>
+    <p><a href="https://pubmed.ncbi.nlm.nih.gov/40964904/">PubMed</a></p>
+  </article>
+<article class="paper">
+    <h2>Life Course Dynamics in the Health of Mothers Raising Children with Serious Conditions.</h2>
+    <p class="meta">Journal of health and social behavior · 2026-05-30</p>
+    <p class="tagline">分類：健康與社會經濟</p>
+    <span class="section-label">中文摘要</span>
+    <p>本研究基於生命歷程視角，探討撫養患有嚴重疾病兒童的母親，其中年時期的身體健康如何受到三種照護「強度」維度的影響：照護持續時間、角色轉換的累積次數以及受影響兒童的數量。透過分析全國青年縱向調查的面板數據，研究發現這三個維度皆顯著導致母親身體健康變差，其中角色累積轉換次數與受影響兒童數量的負面影響尤為突出。</p>
+    <span class="section-label">研究亮點</span>
+    <p>此研究揭示了長期照護壓力對母親健康的動態累積效應，並證實較高的勞動力參與度與收入能發揮顯著的緩衝作用。這不僅豐富了生命歷程理論在家庭照護領域的應用，也為公共政策提供了實證基礎，強調了促進母親就業與提升家庭經濟條件對於減輕長期照護負擔、保護弱勢家庭健康福祉的關鍵意義。</p>
+    <span class="section-label">原始連結</span>
+    <p><a href="https://pubmed.ncbi.nlm.nih.gov/40753490/">PubMed</a></p>
+  </article>
+<article class="paper">
+    <h2>Racial-Ethnic Differences in Mothers&#39; Parenting Stress and Its Associations with Depression.</h2>
+    <p class="meta">Journal of health and social behavior · 2026-05-30</p>
+    <p class="tagline">分類：健康與社會行為</p>
+    <span class="section-label">中文摘要</span>
+    <p>本研究利用2010-2011年幼兒教育縱向研究數據（N=8,495），基於壓力過程模型探討美國母親育兒壓力的種族與民族差異，及其與憂鬱症的關聯。透過潛在類別分析，研究識別出五種育兒壓力類型。結果顯示，即使整體育兒壓力水平相似，不同種族與民族背景的母親在面臨的壓力類型分布上仍存在顯著差異，且各類型壓力與憂鬱症之間的關聯強度亦因種族背景而異。</p>
+    <span class="section-label">研究亮點</span>
+    <p>該研究填補了母親心理健康領域中關於種族與民族差異的研究空白，挑戰了僅以整體壓力水平衡量心理負擔的傳統觀點。其發現強調，在探討母職帶來的心理健康後果及壓力與憂鬱症關係中的社會不平等時，必須將育兒壓力的多維度與異質性納入考量，這對未來制定具文化敏感性的心理健康支持政策具有重要參考價值。</p>
+    <span class="section-label">原始連結</span>
+    <p><a href="https://pubmed.ncbi.nlm.nih.gov/40753489/">PubMed</a></p>
+  </article>
+<article class="paper">
+    <h2>Sexual Orientation and Social Isolation from Early Adulthood to Early Midlife.</h2>
+    <p class="meta">Journal of health and social behavior · 2026-05-30</p>
+    <p class="tagline">分類：社會學與公共衛生</p>
+    <span class="section-label">中文摘要</span>
+    <p>本研究利用2001至2018年的「全國青少年至成人健康縱向研究」數據（共30,250筆觀測值），從少數壓力、少數群體優勢及生命歷程視角，探討18至42歲期間不同性取向者的社會孤立軌跡差異。生長曲線模型結果顯示，從成年早期到早中年，性少數群體的社會孤立程度顯著高於異性戀者。具體而言，女同性戀、男同性戀或雙性戀者的孤立程度最高，完全異性戀者最低，而「以異性戀為主」者則介於兩者之間；值得注意的是，以異性戀為主者的孤立程度上升速度較其他兩組更快，且依性別與孤立維度進行區分分析後發現了更多重要差異。</p>
+    <span class="section-label">研究亮點</span>
+    <p>此研究填補了公共衛生領域中關於性取向與社會孤立長期發展軌跡的知識空白。透過揭示性少數群體及「以異性戀為主」者在成年早期至早中年期間面臨的特定孤立風險與變化趨勢，研究不僅豐富了少數壓力理論的實證基礎，也為公共衛生政策制定者與社會工作者提供了重要參考，有助於針對不同性取向群體設計更具精準性與生命歷程視角的社會支持與健康干預策略。</p>
+    <span class="section-label">原始連結</span>
+    <p><a href="https://pubmed.ncbi.nlm.nih.gov/40518989/">PubMed</a></p>
+  </article>
+<article class="paper">
+    <h2>Agentic Recombination of Health Behaviors into Adult Health Lifestyles.</h2>
+    <p class="meta">Journal of health and social behavior · 2026-05-30</p>
+    <p class="tagline">分類：健康社會學</p>
+    <span class="section-label">中文摘要</span>
+    <p>本研究提出「主體性重組」概念，探討個人如何將多種健康行為獨特地結合成成人健康生活方式。透過分析2005至2019年PSID過渡到成年期補充調查數據，研究發現父母與成年子女在個別健康行為及有益健康行為的方向性上存在顯著對應，但兩代人在整體健康生活方式的關聯上則更為複雜且不確定。這表明個體是在社會結構的影響下，以獨特的方式重組健康行為來建立其生活方式。</p>
+    <span class="section-label">研究亮點</span>
+    <p>此研究突破了過去僅聚焦於單一健康行為代際傳遞的侷限，首次揭示了健康行為「組合模式」的代際連結。研究不僅豐富了健康生活方式的理論架構，更精準闡釋了社會結構位置的變遷如何影響個體成年後的健康行為選擇，對制定跨世代的健康促進政策與干預措施具有重要參考價值。</p>
+    <span class="section-label">原始連結</span>
+    <p><a href="https://pubmed.ncbi.nlm.nih.gov/40365865/">PubMed</a></p>
+  </article>
+  <footer>
+    <p><a href="https://www.leepsyclinic.com/">李政洋身心診所首頁</a></p>
+    <p><a href="https://blog.leepsyclinic.com/">訂閱電子報</a></p>
+    <p><a href="https://buymeacoffee.com/CYlee">Buy me a coffee</a></p>
+    <p>Powered by PubMed + Zhipu AI · <a href="https://github.com/u8901006/financial-brain">GitHub</a></p>
+  </footer>
+</div>
+</body>
+</html>
