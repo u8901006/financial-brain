@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Financial Brain · 2026-07-08</title>
+<style>
+  :root { --bg: #f6f1e8; --surface: #fffaf2; --line: #d8c5ab; --text: #2b2118; --muted: #766453; --accent: #8c4f2b; --accent-soft: #ead2bf; }
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: radial-gradient(circle at top, #fff6ea 0, var(--bg) 55%, #ead8c6 100%); color: var(--text); font-family: "Noto Sans TC", "PingFang TC", "Helvetica Neue", Arial, sans-serif; min-height: 100vh; }
+  .container { position: relative; z-index: 1; max-width: 760px; margin: 0 auto; padding: 72px 24px; }
+  .logo { font-size: 48px; text-align: center; margin-bottom: 16px; }
+  h1 { text-align: center; font-size: 24px; color: var(--text); margin-bottom: 8px; }
+  .subtitle { text-align: center; color: var(--accent); font-size: 14px; margin-bottom: 40px; }
+  .count { text-align: center; color: var(--muted); font-size: 13px; margin-bottom: 32px; }
+  .lead { margin: 0 auto 24px; max-width: 680px; color: var(--muted); line-height: 1.8; text-align: center; }
+  ul { list-style: none; }
+  li { margin-bottom: 10px; }
+  a { color: var(--text); text-decoration: none; }
+  .issue-link { display: block; padding: 14px 20px; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; transition: all 0.2s; font-size: 15px; }
+  .issue-link:hover { background: var(--accent-soft); border-color: var(--accent); transform: translateX(4px); }
+  .paper { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 24px; margin-bottom: 18px; box-shadow: 0 8px 30px rgba(140, 79, 43, 0.08); }
+  .paper h2 { font-size: 20px; margin-bottom: 12px; }
+  .meta, .tagline, .empty { color: var(--muted); font-size: 14px; line-height: 1.7; }
+  .section-label { display: inline-block; margin-top: 16px; margin-bottom: 8px; padding: 4px 10px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); font-size: 12px; letter-spacing: 0.04em; }
+  .paper p { line-height: 1.8; }
+  .back-link { display: inline-block; margin-bottom: 24px; color: var(--accent); }
+  footer { margin-top: 56px; text-align: center; font-size: 12px; color: var(--muted); }
+  footer a { color: var(--muted); }
+  footer a:hover { color: var(--accent); }
+</style>
+</head>
+<body>
+<div class="container">
+  <a class="back-link" href="index.html">← 返回首頁</a>
+  <div class="logo">📈</div>
+  <h1>Financial Brain</h1>
+  <p class="subtitle">2026年7月8日（週三）</p>
+  <p class="lead">今日收錄 6 篇過去 7 天日報尚未出現的新研究，聚焦金融壓力、健康經濟、決策科學與不平等議題。</p>
+  <article class="paper">
+    <h2>The conceptualization of champions and their role in healthcare resilience.</h2>
+    <p class="meta">BMC health services research · 2026-07-07</p>
+    <p class="tagline">分類：醫療組織管理</p>
+    <span class="section-label">中文摘要</span>
+    <p>本研究透過對挪威兩家醫院、五家護理院及一家居家護理機構的55名管理者與員工進行定性探索，釐清了醫療領域中「倡導者（champions）」的概念及其對醫療韌性的貢獻。研究發現，倡導者是那些能看見可能性而非障礙、主動尋求資源解決挑戰並激勵他人的人。他們在組織中可能扮演促進社交與專業關係的非正式角色，或作為特定領域資源人員與實施過程促進者的正式角色。然而，資源匱乏與缺乏管理支持是維繫倡導者的主要障礙，而領導力的支持與具備心理安全感的開放文化則是關鍵促進因素。</p>
+    <span class="section-label">研究亮點</span>
+    <p>此研究釐清了過去文獻中對「倡導者」定義不一致的問題，突顯了他們在醫療品質改善、變革實施及提升組織韌性中的關鍵價值。研究特別警示管理者，不應將倡導者的額外付出視為掩飾系統資源不足的工具，而應提供實質的支持與認可，創造良好的心理安全環境。這為醫療機構如何有效培育、支持並運用倡導者以推動組織變革與強化系統韌性提供了重要的實務指引。</p>
+    <span class="section-label">原始連結</span>
+    <p><a href="https://pubmed.ncbi.nlm.nih.gov/42410581/">PubMed</a></p>
+  </article>
+<article class="paper">
+    <h2>Stabilizing and cleaning functional connectivity measures via native eigenspace denoising of resting state fMRI data.</h2>
+    <p class="meta">NeuroImage · 2026-06-16</p>
+    <p class="tagline">分類：神經影像學方法</p>
+    <span class="section-label">中文摘要</span>
+    <p>本研究提出了一種名為原生特徵空間去噪（NESD）的自動化方法，用於處理靜息態功能磁共振成像數據中的頭部運動與非神經生理噪聲。該方法透過滑動窗口分割，分別在時間與空間特徵空間中進行干擾回歸，以實現數據驅動的噪聲估計與抑制。研究結果顯示，在不移除全局信號的情況下，NESD的去噪效能可與全局信號回歸（GSR）相媲美；其中NESD在抑制運動與時間噪聲方面表現較佳，而GSR在信號幅度上佔優，兩者皆產生相似的負連接相關性。此外，研究還提供了涵蓋時間、空間、頻率與連接指標的數據品質可視化工具，以自動評估噪聲汙染程度。</p>
+    <span class="section-label">研究亮點</span>
+    <p>此研究為rs-fMRI數據的預處理提供了一種具備高效能與實用性的新選擇，有助於解決長期困擾腦功能連接分析的運動與生理噪聲問題。透過提升功能連接指標的穩定性與可靠性，該方法能增強對神經與精神疾病大腦功能變化解釋的準確度。同時，研究明確指出了NESD與傳統GSR在不同品質指標上的取捨，為未來研究人員根據具體實驗目標選擇最適當的去噪策略提供了重要參考依據。</p>
+    <span class="section-label">原始連結</span>
+    <p><a href="https://pubmed.ncbi.nlm.nih.gov/42250836/">PubMed</a></p>
+  </article>
+<article class="paper">
+    <h2>Neural trajectories of gaming disorder accounting for psychopathology: Insights from the longitudinal ABCD study.</h2>
+    <p class="meta">NeuroImage · 2026-06-16</p>
+    <p class="tagline">分類：神經精神醫學</p>
+    <span class="section-label">中文摘要</span>
+    <p>本研究利用ABCD縱向研究數據，探討2046名青少年遊戲障礙（GD）與大腦獎勵系統之間的雙向關聯，以及精神病理學（如焦慮、憂鬱、ADHD）的調節作用。結果發現，在控制精神病理學因素後，GD與雙側杏仁核、腦島等多個獎勵迴路區域的獎賞與損失激活存在顯著的雙向關聯。發展軌跡顯示，早期（11-12歲）的獎勵低激活會過渡到後期（13-14歲）的獎勵高激活，顯示出從獎勵缺乏到敏化的神經適應過程。此外，焦慮和ADHD會特異性地加強右側腦島激活與GD症狀之間的關聯。</p>
+    <span class="section-label">研究亮點</span>
+    <p>該研究揭示了遊戲障礙在青少年發育期間的神經動態變化軌跡，證實了焦慮和ADHD等精神病理學特徵是加劇GD的重要風險因子。臨床上，右側腦島被確立為GD最穩健的神經生物標誌物，這意味著及早介入治療焦慮與ADHD，可能有助於預防或減緩青少年遊戲障礙的發展，為制定精準的早期預防與干預策略提供了重要的神經科學依據。</p>
+    <span class="section-label">原始連結</span>
+    <p><a href="https://pubmed.ncbi.nlm.nih.gov/42250834/">PubMed</a></p>
+  </article>
+<article class="paper">
+    <h2>Interictal thalamocortical network configuration is associated with susceptibility to seizure-related impaired consciousness in focal epilepsy.</h2>
+    <p class="meta">NeuroImage · 2026-06-16</p>
+    <p class="tagline">分類：癲癇神經生理學</p>
+    <span class="section-label">中文摘要</span>
+    <p>本研究透過分析14名兒童的中央中核立體腦電圖（CMN-SEEG）記錄，探討局灶性癲癇中發作間期丘腦皮層網絡特徵與發作相關意識受損（FIC及FBTCS）之間的關聯。研究發現，FBTCS與發作起始區（SOZ）及CMN中顯著降低的非週期性偏移有關；此外，相位同步指數（PSI）分析顯示，CMN-SOZ與CMN-非SOZ網絡在theta、alpha及beta頻段的同步化相對配置，與FIC及FBTCS的臨床表現存在顯著交互作用，揭示了特定的網絡狀態與意識受損易感性的關聯。</p>
+    <span class="section-label">研究亮點</span>
+    <p>此研究首次透過發作間期的網絡配置特徵，揭示了中央中核（CMN）在局灶性癲癇意識受損機制中的關鍵角色。這些發現不僅有助於釐清不同癲癇表型背後的神經生理學基礎，更為將CMN作為神經調控靶點以預防或減輕發作時意識受損，提供了重要的理論依據與潛在的生物標記物。</p>
+    <span class="section-label">原始連結</span>
+    <p><a href="https://pubmed.ncbi.nlm.nih.gov/42235662/">PubMed</a></p>
+  </article>
+<article class="paper">
+    <h2>Convergent resting-state functional connectivity and meta-analytic functional decoding for describing probabilistic maps of visual perception of emotional constructs.</h2>
+    <p class="meta">NeuroImage · 2026-06-16</p>
+    <p class="tagline">分類：神經影像學</p>
+    <span class="section-label">中文摘要</span>
+    <p>本研究利用人類連接體計畫的規範連接組與概率視覺拓撲映射，探討背外側枕葉、頂葉及腹側顳葉三個視覺網絡的靜息態功能連接匯聚性。研究發現，這些視覺網絡與邊緣、突顯及感覺運動迴路呈現正耦合，與預設模式及額頂葉系統則為負連接。元分析功能解碼進一步揭示，背外側區域與情感喚醒及認知調節相關，頂葉區域涉及推理與認知更新，而腹側顳葉區域則負責視覺-情緒整合。</p>
+    <span class="section-label">研究亮點</span>
+    <p>此研究揭示了視覺系統嵌入大腦內在皮質層級的共享與分離原則，證實視覺網絡並非孤立運作，而是深度整合於處理喚醒、行動準備及情感顯著性的迴路中。這不僅重新定義了視覺感知與認知、情感過程之間的互動架構，也為理解人類視覺系統的內在組織原則提供了重要的神經科學證據。</p>
+    <span class="section-label">原始連結</span>
+    <p><a href="https://pubmed.ncbi.nlm.nih.gov/42235660/">PubMed</a></p>
+  </article>
+<article class="paper">
+    <h2>Dual-polarity reconstruction for 3D multi-shot EPI improves image quality in high-resolution fMRI.</h2>
+    <p class="meta">NeuroImage · 2026-06-16</p>
+    <p class="tagline">分類：神經影像技術</p>
+    <span class="section-label">中文摘要</span>
+    <p>本研究針對7T高解析度功能磁振造影中，3D多激發EPI常見的Nyquist鬼影與模糊波紋偽影問題，提出並評估了一種實用的雙極性重建流程。該方法採用兩步驟策略，先以相位校正資料替換取得的RO+/RO-線，再利用具備kz擴展核的常規GRAPPA重建缺失樣本。體外與體內實驗證實，相較於線性相位校正（LPC），此方法能有效降低偽影、提升易受影響之顳葉區域的時間SNR，並在亞毫米級聽覺任務fMRI中顯著減少假陽性啟動。</p>
+    <span class="section-label">研究亮點</span>
+    <p>此研究系統性地驗證了雙極性重建技術在亞毫米級高解析度3D多激發fMRI中的實用價值。透過改善影像保真度與降低假陽性率，該技術有助於提升腦部功能定位的準確性，對推動7T超高解析度神經影像學在精準腦科學研究中的應用具有重要意義。</p>
+    <span class="section-label">原始連結</span>
+    <p><a href="https://pubmed.ncbi.nlm.nih.gov/42235657/">PubMed</a></p>
+  </article>
+  <footer>
+    <p><a href="https://www.leepsyclinic.com/">李政洋身心診所首頁</a></p>
+    <p><a href="https://blog.leepsyclinic.com/">訂閱電子報</a></p>
+    <p><a href="https://buymeacoffee.com/CYlee">Buy me a coffee</a></p>
+    <p>Powered by PubMed + Zhipu AI · <a href="https://github.com/u8901006/financial-brain">GitHub</a></p>
+  </footer>
+</div>
+</body>
+</html>
