@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-12",
+  "label": "2026年10月12日（週一）",
+  "generatedAt": "2026-10-12T09:49:58.869Z",
+  "totalCandidates": 14,
+  "newPapers": 1,
+  "papers": [
+    {
+      "pmid": "42860145",
+      "doi": "10.1016/j.biopsycho.2026.109412",
+      "title": "Trait anxiety is associated with anxious anticipation and altered perceptions of physiological arousal during acute psychological stress.",
+      "abstract": "Individuals with higher trait anxiety report more anticipatory anxiety prior to stressful events. In general, experiences of acute stressful events are associated with increases in both actual physiological arousal (i.e., heart rate) and perceptions of physiological arousal (i.e., perceived heart rate changes). However, whether trait anxiety is associated with anticipatory anxiety which in turn is associated with subsequent alterations in perceived and actual physiological arousal during stress has not yet been explored. Young adults (N = 421, 62.7% Female) completed a standardized acute psychological stress task. Participants reported their anticipatory cognitive and somatic anxiety intensity levels after the task instructions but before beginning the stress task. Immediately after the stress task, participants reported their perceived stressor-evoked physiological arousal intensity. Participants also completed a measure of trait anxiety. Heart rate was measured continuously via electrocardiogram during baseline and the stress task. Higher trait anxiety was associated with increased levels of anticipatory cognitive anxiety and somatic anxiety intensity, and cognitive and somatic anticipatory anxiety intensity, in turn, were associated with greater perceived physiological arousal. In contrast, anticipatory anxiety intensity was not associated with actual heart rate reactivity. Results demonstrated that individuals with elevated trait anxiety experienced more anxious anticipation of a stressor, which relates to a potential discrepancy in perceptions verses actual cardiac responses to the stressor.",
+      "journal": "Biological psychology",
+      "publicationDate": "2026-10-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42860145/",
+      "summary": "Individuals with higher trait anxiety report more anticipatory anxiety prior to stressful events. In general, experiences of acute stressful events are associated with increases in both actual physiological arousal (i.e., heart rate) and perceptions of physiological arousal (i.e., perceived heart rate changes). However, whether trait anxiety is associated with anticipatory anxiety which in turn is associated with subsequent alterations in perceived and actual physiological arousal during stress has not yet been explored. Young adults (N = 421, 62.7% Female) completed a standardized acute psychological stress task. Participants reported their anticipatory cognitive and somatic anxiety intensity levels after the task instructions but before beginning the stress task. Immediately after the stress task, participants reported their perceived stressor-evoked physiological arousal intensity. Participants also completed a measure of trait anxiety. Heart rate was measured continuously via electrocardiogram during baseline and the stress task. Higher trait anxiety was associated with increased levels of anticipatory cognitive anxiety and somatic anxiety intensity, and cognitive and somatic anticipatory anxiety intensity, in turn, were associated with greater perceived physiological arousal. In contrast, anticipatory anxiety intensity was not associated with actual heart rate reactivity. Results demonstrated that individuals with elevated trait anxiety experienced more anxious anticipation of a stressor, which relates to a potential discrepancy in perceptions verses actual cardiac responses to the stressor.",
+      "classification": "Fallback",
+      "significance": "模型處理失敗：Zhipu request failed: 401",
+      "modelUsed": "fallback-local"
+    }
+  ]
+}
