@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-19",
+  "label": "2026年10月19日（週一）",
+  "generatedAt": "2026-10-19T08:07:05.867Z",
+  "totalCandidates": 16,
+  "newPapers": 1,
+  "papers": [
+    {
+      "pmid": "42892502",
+      "doi": "10.1016/j.neuroimage.2026.122300",
+      "title": "Precise modeling of task-related sensorimotor activation based on simultaneous surface electromyography.",
+      "abstract": "The aim of this study was to evaluate the relationship between motor control of ankle movements and actual motor performance using simultaneous functional magnetic resonance imaging (fMRI) and surface electromyography (EMG) in healthy individuals. Twenty participants performed dorsi-/plantarflexion of the ankle (Ankle) and gait imagery in a block design during fMRI. First-level models consisting of task regressors included either orthogonalized accelerometry (Acc) from the foot, EMG from the tibialis anterior, EMG with Acc, EMG split across conditions, or none. Each model was additionally evaluated either by default with or without a temporal derivative (TD) of the ankle movement task regressor. Voxel-wise and post-hoc region-of-interest (ROI) analyses revealed that both Acc and EMG explained fMRI signal in the primary sensorimotor cortices, while EMG was additionally associated with activation in the cerebellar vermis and the secondary somatosensory cortex. The two latter findings were, however, neither reproduced when separating the signal fluctuations during rest and gait imagery nor reflected in pairwise comparisons. Leaving out the TD reduced each model's performance by increasing unexplained variance, but resulted in more signal being explained by the EMG or Acc in the cerebellum, reflecting that it preferentially exhibited brief signal changes during transitions between conditions. Taken together, both EMG and Acc enabled capturing specific brain activity related to the movement variability; however, including the TD may significantly affect the ability to detect EMG- or Acc-related signal in regions with transient fMRI responses sensitive to changes in movement context, such as the cerebellum.",
+      "journal": "NeuroImage",
+      "publicationDate": "2026-10-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42892502/",
+      "summary": "The aim of this study was to evaluate the relationship between motor control of ankle movements and actual motor performance using simultaneous functional magnetic resonance imaging (fMRI) and surface electromyography (EMG) in healthy individuals. Twenty participants performed dorsi-/plantarflexion of the ankle (Ankle) and gait imagery in a block design during fMRI. First-level models consisting of task regressors included either orthogonalized accelerometry (Acc) from the foot, EMG from the tibialis anterior, EMG with Acc, EMG split across conditions, or none. Each model was additionally evaluated either by default with or without a temporal derivative (TD) of the ankle movement task regressor. Voxel-wise and post-hoc region-of-interest (ROI) analyses revealed that both Acc and EMG explained fMRI signal in the primary sensorimotor cortices, while EMG was additionally associated with activation in the cerebellar vermis and the secondary somatosensory cortex. The two latter findings were, however, neither reproduced when separating the signal fluctuations during rest and gait imagery nor reflected in pairwise comparisons. Leaving out the TD reduced each model's performance by increasing unexplained variance, but resulted in more signal being explained by the EMG or Acc in the cerebellum, reflecting that it preferentially exhibited brief signal changes during transitions between conditions. Taken together, both EMG and Acc enabled capturing specific brain activity related to the movement variability; however, including the TD may significantly affect the ability to detect EMG- or Acc-related signal in regions with transient fMRI responses sensitive to changes in movement context, such as the cerebellum.",
+      "classification": "Fallback",
+      "significance": "模型處理失敗：Zhipu request failed: 401",
+      "modelUsed": "fallback-local"
+    }
+  ]
+}
