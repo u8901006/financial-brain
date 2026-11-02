@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-02",
+  "label": "2026年11月2日（週一）",
+  "generatedAt": "2026-11-02T10:07:21.333Z",
+  "totalCandidates": 17,
+  "newPapers": 3,
+  "papers": [
+    {
+      "pmid": "42730517",
+      "doi": "10.1002/hec.70152",
+      "title": "The Importance of Treatment Adherence and Long-Term Outcomes in Health Economic Impact Evaluations.",
+      "abstract": "Wydick et&#xa0;al. recently estimated the impact of Ponseti clubfoot treatment on human flourishing in Ethiopia, providing important evidence for scaling clubfoot programs in low- and middle-income countries. However, their definition of \"treated\" warrants scrutiny. Considering children in the final stages of casting as treated, only captures outcomes during the early stage of a 4-year treatment course, implicitly assuming full bracing adherence and no relapse. This is inconsistent with relapse rates of 30%-40% and two-year discontinuation rates exceeding 50% in comparable settings. This choice of definition likely underestimates late-initiated treatment impact and overestimates early-initiated treatment impact. Modeling the clubfoot care pathway as a probabilistic value model incorporating dropout, non-adherence, and relapse, I re-estimate population-level functional outcomes at mid-childhood. In settings without additional surgical care availability the mean level of functionality is estimated at 55.2% of normal function (95% CI 54.6%-55.9%), showing that enrollment expansion alone cannot achieve impact at the scale implied. Achieving clubfoot treatment's full potential at scale requires comprehensive, longitudinal care beyond initial Ponseti treatment, and stronger collaboration between clinical and health-economics communities to ground future estimates in clinical reality.",
+      "journal": "Health economics",
+      "publicationDate": "2026-11-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42730517/",
+      "summary": "Wydick et&#xa0;al. recently estimated the impact of Ponseti clubfoot treatment on human flourishing in Ethiopia, providing important evidence for scaling clubfoot programs in low- and middle-income countries. However, their definition of \"treated\" warrants scrutiny. Considering children in the final stages of casting as treated, only captures outcomes during the early stage of a 4-year treatment course, implicitly assuming full bracing adherence and no relapse. This is inconsistent with relapse rates of 30%-40% and two-year discontinuation rates exceeding 50% in comparable settings. This choice of definition likely underestimates late-initiated treatment impact and overestimates early-initiated treatment impact. Modeling the clubfoot care pathway as a probabilistic value model incorporating dropout, non-adherence, and relapse, I re-estimate population-level functional outcomes at mid-childhood. In settings without additional surgical care availability the mean level of functionality is estimated at 55.2% of normal function (95% CI 54.6%-55.9%), showing that enrollment expansion alone cannot achieve impact at the scale implied. Achieving clubfoot treatment's full potential at scale requires comprehensive, longitudinal care beyond initial Ponseti treatment, and stronger collaboration between clinical and health-economics communities to ground future estimates in clinical reality.",
+      "classification": "Fallback",
+      "significance": "模型處理失敗：Zhipu request failed: 401",
+      "modelUsed": "fallback-local"
+    },
+    {
+      "pmid": "42635588",
+      "doi": "10.1002/hec.70148",
+      "title": "Medical Brain Drain: The Role of Job Attributes and Individual Traits.",
+      "abstract": "Medical brain drain poses a major challenge for health systems, reducing physician supply and undermining public investment in medical training. Prior work examined migration flows and their macroeconomic determinants. This study uses a discrete choice experiment to assess how individual background and personality traits shape medical student intentions to migrate and whether job attributes are valued differently at home and abroad. We surveyed 527 senior medical students from 12 Italian universities between November 2020 and July 2021, using Italy as a pertinent case given high physician emigration and limited inflow of foreign-trained doctors. We find that students require compensation of around 30% of physicians' average starting salary to accept a job abroad rather than at home. Those from higher-quality schools or medical families, and those who are more altruistic, competitive, and risk-tolerant, require less compensation to migrate. Valuations of several job attributes also differ by location: at home, students value permanent contracts and professional development; abroad, they are willing to accept temporary contracts but reject under-skilling. These findings suggest that emigration may disproportionately involve the best-trained students. Policy simulations show that improving working conditions, job security, or professional development opportunities each substantially increases the predicted probability of choosing a domestic job, with salary increases having the largest effects.",
+      "journal": "Health economics",
+      "publicationDate": "2026-11-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42635588/",
+      "summary": "Medical brain drain poses a major challenge for health systems, reducing physician supply and undermining public investment in medical training. Prior work examined migration flows and their macroeconomic determinants. This study uses a discrete choice experiment to assess how individual background and personality traits shape medical student intentions to migrate and whether job attributes are valued differently at home and abroad. We surveyed 527 senior medical students from 12 Italian universities between November 2020 and July 2021, using Italy as a pertinent case given high physician emigration and limited inflow of foreign-trained doctors. We find that students require compensation of around 30% of physicians' average starting salary to accept a job abroad rather than at home. Those from higher-quality schools or medical families, and those who are more altruistic, competitive, and risk-tolerant, require less compensation to migrate. Valuations of several job attributes also differ by location: at home, students value permanent contracts and professional development; abroad, they are willing to accept temporary contracts but reject under-skilling. These findings suggest that emigration may disproportionately involve the best-trained students. Policy simulations show that improving working conditions, job security, or professional development opportunities each substantially increases the predicted probability of choosing a domestic job, with salary increases having the largest effects.",
+      "classification": "Fallback",
+      "significance": "模型處理失敗：Zhipu request failed: 401",
+      "modelUsed": "fallback-local"
+    },
+    {
+      "pmid": "42557618",
+      "doi": "10.1002/hec.70143",
+      "title": "Health and Economic Impacts of an Early Labor Induction Policy for High-BMI Mothers.",
+      "abstract": "We expand the literature on marginal returns to birth interventions by studying a common intervention: early induction of labor for a growing share of pregnancies, high-Body Mass Index (BMI) women. We exploit Danish guidelines which recommend routine induction at 7&#xa0;days after the expected due date instead of 10-13&#xa0;days after for mothers with a pre-pregnancy BMI of at least 35. Our results show that early labor induction improves immediate maternal and neonatal health, reduces universal nurse visits during the child's first year of life, as well as maternal postpartum depression risks (suggestive).",
+      "journal": "Health economics",
+      "publicationDate": "2026-11-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42557618/",
+      "summary": "We expand the literature on marginal returns to birth interventions by studying a common intervention: early induction of labor for a growing share of pregnancies, high-Body Mass Index (BMI) women. We exploit Danish guidelines which recommend routine induction at 7&#xa0;days after the expected due date instead of 10-13&#xa0;days after for mothers with a pre-pregnancy BMI of at least 35. Our results show that early labor induction improves immediate maternal and neonatal health, reduces universal nurse visits during the child's first year of life, as well as maternal postpartum depression risks (suggestive).",
+      "classification": "Fallback",
+      "significance": "模型處理失敗：Zhipu request failed: 401",
+      "modelUsed": "fallback-local"
+    }
+  ]
+}
