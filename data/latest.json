@@ -1,8 +1,22 @@
 {
-  "date": "2026-11-14",
-  "label": "2026年11月14日（週六）",
-  "generatedAt": "2026-11-14T09:32:19.576Z",
-  "totalCandidates": 13,
-  "newPapers": 0,
-  "papers": []
+  "date": "2026-11-15",
+  "label": "2026年11月15日（週日）",
+  "generatedAt": "2026-11-15T09:59:13.806Z",
+  "totalCandidates": 14,
+  "newPapers": 1,
+  "papers": [
+    {
+      "pmid": "43033862",
+      "doi": "10.1016/j.biopsycho.2026.109427",
+      "title": "Spatial-Frequency-Dependent Temporal Dynamics of Orientation Ensemble Representation.",
+      "abstract": "Average representation refers to the rapid extraction of the central tendency from a set of stimuli by the visual system. However, whether this efficient process relies on specific spatial frequency (SF) information remains poorly understood. To investigate the roles of low spatial frequency (LSF) and high spatial frequency (HSF) information in orientation ensemble averaging and the underlying temporal dynamics, we conducted two experiments combining behavioral and electroencephalographic (EEG) measures. Experiment 1 examined the effects of SF and visual field location on mean orientation judgments. Behavioral results indicated that LSF ensembles yielded superior accuracy and shorter reaction times compared to HSF ensembles, with performance further enhanced in the peripheral versus central visual field. To characterize the underlying temporal dynamics of ensemble processing, Experiment 2 focused on the peripheral field and utilized a neural adaptation paradigm in which the adapted and control test ensembles were matched in numerosity and spatial configuration. Electrophysiological results revealed a sequential processing trajectory: the LSF condition initially elicited a significant neural adaptation effect at the early C1 stage, followed by an HSF-elicited adaptation effect at the P1 stage. Finally, at the late P3 stage, the LSF condition exhibited a repetition enhancement effect. These findings suggest that orientation ensemble representation follows a spatial-frequency-dependent, coarse-fine-refine multistage dynamic pattern. Specifically, early LSF information facilitates a rapid, coarse holistic estimate; subsequently, HSF information contributes fine-grained details; and ultimately, the representation may be refined or calibrated through a late-stage process that may involve updating early LSF-based predictions.",
+      "journal": "Biological psychology",
+      "publicationDate": "2026-11-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033862/",
+      "summary": "Average representation refers to the rapid extraction of the central tendency from a set of stimuli by the visual system. However, whether this efficient process relies on specific spatial frequency (SF) information remains poorly understood. To investigate the roles of low spatial frequency (LSF) and high spatial frequency (HSF) information in orientation ensemble averaging and the underlying temporal dynamics, we conducted two experiments combining behavioral and electroencephalographic (EEG) measures. Experiment 1 examined the effects of SF and visual field location on mean orientation judgments. Behavioral results indicated that LSF ensembles yielded superior accuracy and shorter reaction times compared to HSF ensembles, with performance further enhanced in the peripheral versus central visual field. To characterize the underlying temporal dynamics of ensemble processing, Experiment 2 focused on the peripheral field and utilized a neural adaptation paradigm in which the adapted and control test ensembles were matched in numerosity and spatial configuration. Electrophysiological results revealed a sequential processing trajectory: the LSF condition initially elicited a significant neural adaptation effect at the early C1 stage, followed by an HSF-elicited adaptation effect at the P1 stage. Finally, at the late P3 stage, the LSF condition exhibited a repetition enhancement effect. These findings suggest that orientation ensemble representation follows a spatial-frequency-dependent, coarse-fine-refine multistage dynamic pattern. Specifically, early LSF information facilitates a rapid, coarse holistic estimate; subsequently, HSF information contributes fine-grained details; and ultimately, the representation may be refined or calibrated through a late-stage process that may involve updating early LSF-based predictions.",
+      "classification": "Fallback",
+      "significance": "模型處理失敗：Zhipu request failed: 401",
+      "modelUsed": "fallback-local"
+    }
+  ]
 }
