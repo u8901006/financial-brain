@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-19",
+  "label": "2026年11月19日（週四）",
+  "generatedAt": "2026-11-19T10:48:13.245Z",
+  "totalCandidates": 15,
+  "newPapers": 1,
+  "papers": [
+    {
+      "pmid": "43053493",
+      "doi": "10.1002/hec.70176",
+      "title": "Effects of State Paid Sick Leave Mandates on Children's Mental Healthcare Utilization.",
+      "abstract": "Many major mental health conditions first emerge in childhood, when early intervention can produce both immediate and long-term benefits. The United States has no federal paid sick leave (PSL) policy, but 18 states have implemented PSL mandates that give employees job-protected, paid time off to address their own health needs or those of a dependent. We study the effects of these mandates on children's mental healthcare use, combining data from the 2016 to 2024 National Survey of Children's Health with difference-in-differences and event-study methods. We find suggestive evidence that children's mental healthcare use increases following PSL mandate implementation, though the difference-in-differences estimate is imprecise. Event-study analyses suggest a short-run increase in use that dissipates over time. The increases are particularly pronounced among children ages 5 to 11. These findings suggest that PSL mandates may help parents obtain mental healthcare for their children and make other investments in their children.",
+      "journal": "Health economics",
+      "publicationDate": "2026-11-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43053493/",
+      "summary": "Many major mental health conditions first emerge in childhood, when early intervention can produce both immediate and long-term benefits. The United States has no federal paid sick leave (PSL) policy, but 18 states have implemented PSL mandates that give employees job-protected, paid time off to address their own health needs or those of a dependent. We study the effects of these mandates on children's mental healthcare use, combining data from the 2016 to 2024 National Survey of Children's Health with difference-in-differences and event-study methods. We find suggestive evidence that children's mental healthcare use increases following PSL mandate implementation, though the difference-in-differences estimate is imprecise. Event-study analyses suggest a short-run increase in use that dissipates over time. The increases are particularly pronounced among children ages 5 to 11. These findings suggest that PSL mandates may help parents obtain mental healthcare for their children and make other investments in their children.",
+      "classification": "Fallback",
+      "significance": "模型處理失敗：Zhipu request failed: 401",
+      "modelUsed": "fallback-local"
+    }
+  ]
+}
