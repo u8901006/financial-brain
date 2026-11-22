@@ -1,8 +1,22 @@
 {
-  "date": "2026-11-21",
-  "label": "2026年11月21日（週六）",
-  "generatedAt": "2026-11-21T10:18:53.475Z",
+  "date": "2026-11-22",
+  "label": "2026年11月22日（週日）",
+  "generatedAt": "2026-11-22T10:23:46.996Z",
   "totalCandidates": 13,
-  "newPapers": 0,
-  "papers": []
+  "newPapers": 1,
+  "papers": [
+    {
+      "pmid": "43065137",
+      "doi": "10.1177/00221465261499966",
+      "title": "Gender Expression and Its Relationship to Health in Older Adulthood.",
+      "abstract": "Gender expression's relationship to health in older adulthood remains underexplored despite strong evidence of its connection to health in adolescents and young adults. To address this gap, we measured gender expression (i.e., masculinity and femininity, self- and reflected appraisal) in a nationally representative survey of U.S. older adults (Foresight 50+ Omnibus Survey, N&#x2009;=&#x2009;1,018) to (1) assess variation in gender expression among older adults and (2) evaluate relationships between gender nonconformity and common indicators of health (i.e., Self-Rated Physical Health, Patient Health Questionnaire-2). Over half of males and females reported some degree of nonconforming gender expression, and that nonconformity, specifically, lower masculinity in males and higher masculinity in females, was associated with fair/poor physical health status and depressive disorder. Results of this study point to the utility of assessing gender expression among older adults as an important and meaningful form of diversity with implications for health and well-being.",
+      "journal": "Journal of health and social behavior",
+      "publicationDate": "2026-11-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43065137/",
+      "summary": "Gender expression's relationship to health in older adulthood remains underexplored despite strong evidence of its connection to health in adolescents and young adults. To address this gap, we measured gender expression (i.e., masculinity and femininity, self- and reflected appraisal) in a nationally representative survey of U.S. older adults (Foresight 50+ Omnibus Survey, N&#x2009;=&#x2009;1,018) to (1) assess variation in gender expression among older adults and (2) evaluate relationships between gender nonconformity and common indicators of health (i.e., Self-Rated Physical Health, Patient Health Questionnaire-2). Over half of males and females reported some degree of nonconforming gender expression, and that nonconformity, specifically, lower masculinity in males and higher masculinity in females, was associated with fair/poor physical health status and depressive disorder. Results of this study point to the utility of assessing gender expression among older adults as an important and meaningful form of diversity with implications for health and well-being.",
+      "classification": "Fallback",
+      "significance": "模型處理失敗：Zhipu request failed: 401",
+      "modelUsed": "fallback-local"
+    }
+  ]
 }
