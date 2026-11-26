@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-26",
+  "label": "2026年11月26日（週四）",
+  "generatedAt": "2026-11-26T11:34:32.587Z",
+  "totalCandidates": 10,
+  "newPapers": 1,
+  "papers": [
+    {
+      "pmid": "43086416",
+      "doi": "10.1038/s41562-026-02629-8",
+      "title": "Fifty-five crowdsourced designs assessing carbon pricing support in the USA.",
+      "abstract": "A carbon price is an effective and cost-efficient policy to mitigate emissions, yet low public acceptance and limited political support remain major barriers to its widespread implementation. This crowdsourced 'many-designs' project presents results from 55 behavioural interventions on real-world support for carbon pricing, independently developed by international research teams. By implementing all designs simultaneously with almost 20,000 US residents, this preregistered study shows very small positive but statistically significant effects of behavioural interventions on a set of design-specific proxies of real-world support (Cohen's d&#x2009;=&#x2009;0.06; 99.5% confidence interval (CI) 0.001 to 0.124) and on 4 out of 5 common measures of stated support (Cohen's d values 0.06-0.08; 99.5% CIs from 0.006 to 0.112 and from 0.020 to 0.133; between 1.7 and 2.4 percentage points in increased support across outcomes), including the willingness to endorse a carbon price that internalizes the social costs of US$120 per ton of CO 2 emissions (d&#x2009;=&#x2009;0.06; 99.5% CI 0.012 to 0.118). Furthermore, the results reveal low-to-medium between-study heterogeneity (&#x3c4;&#x2009;=&#x2009;0.07-0.12). Lastly, we identify strong overconfidence among research teams regarding the expected effects of their interventions and those of their peers, indicating a miscalibration of community expectations.",
+      "journal": "Nature human behaviour",
+      "publicationDate": "2026-11-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43086416/",
+      "summary": "A carbon price is an effective and cost-efficient policy to mitigate emissions, yet low public acceptance and limited political support remain major barriers to its widespread implementation. This crowdsourced 'many-designs' project presents results from 55 behavioural interventions on real-world support for carbon pricing, independently developed by international research teams. By implementing all designs simultaneously with almost 20,000 US residents, this preregistered study shows very small positive but statistically significant effects of behavioural interventions on a set of design-specific proxies of real-world support (Cohen's d&#x2009;=&#x2009;0.06; 99.5% confidence interval (CI) 0.001 to 0.124) and on 4 out of 5 common measures of stated support (Cohen's d values 0.06-0.08; 99.5% CIs from 0.006 to 0.112 and from 0.020 to 0.133; between 1.7 and 2.4 percentage points in increased support across outcomes), including the willingness to endorse a carbon price that internalizes the social costs of US$120 per ton of CO 2 emissions (d&#x2009;=&#x2009;0.06; 99.5% CI 0.012 to 0.118). Furthermore, the results reveal low-to-medium between-study heterogeneity (&#x3c4;&#x2009;=&#x2009;0.07-0.12). Lastly, we identify strong overconfidence among research teams regarding the expected effects of their interventions and those of their peers, indicating a miscalibration of community expectations.",
+      "classification": "Fallback",
+      "significance": "模型處理失敗：Zhipu request failed: 401",
+      "modelUsed": "fallback-local"
+    }
+  ]
+}
