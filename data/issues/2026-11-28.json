@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-28",
+  "label": "2026年11月28日（週六）",
+  "generatedAt": "2026-11-28T10:57:35.236Z",
+  "totalCandidates": 13,
+  "newPapers": 1,
+  "papers": [
+    {
+      "pmid": "43102867",
+      "doi": "10.1002/hec.70175",
+      "title": "The Impact of National Health Insurance on Health Services Utilization in the Lao People's Democratic Republic.",
+      "abstract": "In many low- and middle-income countries, health insurance coverage remains low and largely excludes the informal sector, leaving many without access to health care and financial protection. In settings where informality is high and enrollment is low, non-contributory insurance models could help close coverage gaps and boost health services utilization. In 2016, Lao PDR introduced a non-contributory National Health Insurance (NHI) scheme to cover the large informal sector population. We sought to examine the impact of this national reform on health services utilization in Lao PDR. Using longitudinal health administrative data covering 116 district hospitals and 920 health centers in 129 districts from October 2015 to September 2017, a staggered difference-in-differences analysis was performed comparing changes in health services utilization between districts that adopted NHI earlier and those that adopted it later. The results indicate that NHI significantly increased outpatient visits among individuals aged &#x2265;&#xa0;5 and children aged <&#xa0;5 in the intervention group relative to the comparison group. NHI also notably increased inpatient admissions among individuals aged &#x2265;&#xa0;5. A non-contributory health insurance model has the potential to rapidly expand population coverage and increase health services utilization in low-resource settings with large informal sector populations. This approach may be particularly relevant for countries transitioning from contributory models or embarking on universal health coverage reforms.",
+      "journal": "Health economics",
+      "publicationDate": "2026-11-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43102867/",
+      "summary": "In many low- and middle-income countries, health insurance coverage remains low and largely excludes the informal sector, leaving many without access to health care and financial protection. In settings where informality is high and enrollment is low, non-contributory insurance models could help close coverage gaps and boost health services utilization. In 2016, Lao PDR introduced a non-contributory National Health Insurance (NHI) scheme to cover the large informal sector population. We sought to examine the impact of this national reform on health services utilization in Lao PDR. Using longitudinal health administrative data covering 116 district hospitals and 920 health centers in 129 districts from October 2015 to September 2017, a staggered difference-in-differences analysis was performed comparing changes in health services utilization between districts that adopted NHI earlier and those that adopted it later. The results indicate that NHI significantly increased outpatient visits among individuals aged &#x2265;&#xa0;5 and children aged <&#xa0;5 in the intervention group relative to the comparison group. NHI also notably increased inpatient admissions among individuals aged &#x2265;&#xa0;5. A non-contributory health insurance model has the potential to rapidly expand population coverage and increase health services utilization in low-resource settings with large informal sector populations. This approach may be particularly relevant for countries transitioning from contributory models or embarking on universal health coverage reforms.",
+      "classification": "Fallback",
+      "significance": "模型處理失敗：Zhipu request failed: 401",
+      "modelUsed": "fallback-local"
+    }
+  ]
+}
